@@ -10,5 +10,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-Tristan-D](https://github.com/Tristan-gitt/quotes-DAO.DUY-D?organization=Tristan-gitt&organization=Tristan-gitt)
-- `contributor-2`: [quotes-Arthur-b](url-2)
+- `contributor-2`: [quotes-Arthur-D](url-2)
 - `contributor-3`: [quotes-](url-3)
